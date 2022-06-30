@@ -16,3 +16,5 @@ end of the day
 
 ok..last test for the day
 then we will resume playing around tomorrow.
+
+ok...and now its the real final try 
